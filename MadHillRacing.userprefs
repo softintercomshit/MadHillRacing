@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp/Compiled-Sprites-Default.shader">
+    <Files>
+      <File FileName="Assets/Scripts/MapSelector.cs" Line="64" Column="2" />
+      <File FileName="Assets/HillClimb_Core/Scripts/Gameplay/UpgradeLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AdsControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/IAPManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/strings.xml" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HomeManager.cs" Line="52" Column="21" />
+      <File FileName="Assets/Scripts/LocalizationScripts/UIComponentLocalizer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UpgradeCar.cs" Line="170" Column="36" />
+      <File FileName="Assets/HillClimb_Core/Scripts/Gameplay/CarController.cs" Line="1" Column="1" />
+      <File FileName="Assets/HillClimb_Core/Scripts/Menu/CarSelect.cs" Line="57" Column="82" />
+      <File FileName="Assets/HillClimb_Core/Scripts/Gameplay/GameManager.cs" Line="109" Column="51" />
+      <File FileName="Temp/Compiled-Sprites-Default.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <en>
+         <string name="CHOOSE MAP">CHOOSE MAP</string>
+         <string name="CHOOSE CAR">CHOOSE CAR</string>
+         <string name="Cost">Cost</string>
+         <string name="coins">coins</string>
+         <string name="COUNTRYSIDE">COUNTRYSIDE</string> 
+         <string name="DOWNHILL">DOWNHILL</string>
+         <string name="DESERT">DESERT</string>
+         <string name="CLIFF">CLIFF</string>
+         <string name="CAVE">CAVE</string>
+         <string name="MARS">MARS</string>
+         <string name="Best">Best</string>
+         <string name="View reward video to earn 1000 coins">View reward video to earn 1000 coins</string>
+         <string name="UPGRADE CAR">UPGRADE CAR</string>
+         <string name="Upgrade cost">Upgrade cost</string>
+         <string name="Completed">Completed</string>
+         <string name="Upgrade Engine">Upgrade Engine</string>
+         <string name="Upgrade Suspension">Upgrade Suspension</string>
+         <string name="Upgrade Tire">Upgrade Tire</string>
+         <string name="Upgrade Fuel">Upgrade Fuel</string>
+         <string name="Level">Level</string>
+
+         <string name="Not enough coins! Watch video for coins!">Not enough coins!&#xA;Watch video for coins!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Improved tired result in better traction and better power delivery to the ground</string>
+         <string name="Improve fuel capacity">Improve fuel capacity</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps</string>
+         <string name="Improved engine parts result in power increase">Improved engine parts result in power increase</string>
+
+         <string name="JEEP">JEEP</string>
+         <string name="CONCEPT">CONCEPT</string>
+         <string name="POLICE">POLICE</string>
+         <string name="PULL">PULL</string>
+         <string name="F1">F1</string>
+         <string name="BUS">BUS</string>
+         <string name="ARMORED">ARMORED</string>
+         <string name="MONSTER">MONSTER</string>
+
+         <string name="Loading">Loading...</string>
+         <string name="Paused">Paused</string>
+         <string name="RESUME">RESUME</string>
+         <string name="RESTART">RESTART</string>
+         <string name="EXIT">EXIT</string>
+         <string name="RETRY">RETRY</string>
+         <string name="You are lost">You lost</string>
+         <string name="You win">You won</string>
+         <string name="UPGRADE">UPGRADE</string>
+         <string name="CANCEL">CANCEL</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Not enough coins!&#xA;Do you want to buy some coins?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </en>
+
+    <ru>
+         <string name="CHOOSE MAP">ВЫБЕРИТЕ КАРТУ</string>
+         <string name="CHOOSE CAR">ВЫБЕРИТЕ АВТО</string>
+         <string name="Cost">Цена</string>
+         <string name="coins">монеты</string>
+         <string name="COUNTRYSIDE">ДЕРЕВНЯ</string> 
+         <string name="DOWNHILL">СПУСК</string>
+         <string name="DESERT">ПУСТЫНЯ</string>
+         <string name="CLIFF">УТЕС</string>
+         <string name="CAVE">ПЕЩЕРА</string>
+         <string name="MARS">МАРС</string>
+         <string name="Best">Лучший</string>
+         <string name="View reward video to earn 1000 coins">Просмотреть рекламное видео, чтобы получить 1000 монет</string>
+         <string name="UPGRADE CAR">УЛУЧШИТЬ АВТО</string>
+         <string name="Upgrade cost">Цена улучшения</string>
+         <string name="Completed">Завершено</string>
+         <string name="Upgrade Engine">Улучшить двигатель</string>
+         <string name="Upgrade Suspension">Улучшить подвеску</string>
+         <string name="Upgrade Tire">Улучшить покрышки</string>
+         <string name="Upgrade Fuel">Улучшить топливо</string>
+         <string name="Level">Уровень</string>
+
+         <string name="Not enough coins! Watch video for coins!">Недостаточно монет!&#xA;nЧтобы получить монеты, просмотрите видео!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Покрышки лучшего качества обеспечивают более высокий уровень сцепления с дорогой, а также повышают тягу</string>
+         <string name="Improve fuel capacity">Увеличить объем топливного бака</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Более низкий центр тяжести и более высокий уровень амортизации повышает стабильность на высоких скоростях и неровностях на дороге</string>
+         <string name="Improved engine parts result in power increase">Улучшенные детали двигателя повышают его мощность</string>
+
+ 		 <string name="JEEP">ДЖИП</string>
+         <string name="CONCEPT">КОНЦЕПТ-КАР</string>
+         <string name="POLICE">ПОЛИЦИЯ</string>
+         <string name="PULL">ТЯГАЧ</string>
+         <string name="F1">Ф1</string>
+         <string name="BUS">АВТОБУС</string>
+         <string name="ARMORED">БРОНЕВИК</string>
+         <string name="MONSTER">МОНСТР-ТРАК</string>
+
+         <string name="Loading">ЗАГРУЗКА...</string>
+         <string name="Paused">Пауза</string>
+         <string name="RESUME">ВЕРНУТЬСЯ</string>
+         <string name="RESTART">ПЕРЕЗАПУСК</string>
+         <string name="EXIT">Выход</string>
+         <string name="RETRY">Повторить</string>
+         <string name="You are lost">Вы проиграли</string>
+         <string name="You win">Вы выиграли</string>
+         <string name="UPGRADE">УЛУЧШИТЬ</string>
+         <string name="CANCEL">ОТМЕНА</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Недостаточно монет!&#xA;Вы хотите купить несколько монет?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </ru>
+
+    <fr>
+         <string name="CHOOSE MAP">CHOISIR LA CARTE</string>
+         <string name="CHOOSE CAR">CHOISIR UNE VOITURE</string>
+         <string name="Cost">Coût</string>
+         <string name="coins">jetons</string>
+         <string name="COUNTRYSIDE">CAMPAGNE</string> 
+         <string name="DOWNHILL">COLLINE</string>
+         <string name="DESERT">DÉSERT</string>
+         <string name="CLIFF">FALAISE</string>
+         <string name="CAVE">GROTTE</string>
+         <string name="MARS">MARS</string>
+         <string name="Best">Meilleur</string>
+         <string name="View reward video to earn 1000 coins">Regarder la vidéo pour gagner 1000 jetons</string>
+         <string name="UPGRADE CAR">AMÉLIORER LA VOITURE</string>
+         <string name="Upgrade cost">Mise à niveau du coût</string>
+         <string name="Completed">Terminé</string>
+         <string name="Upgrade Engine">AMÉLIORER LE MOTEUR</string>
+         <string name="Upgrade Suspension">Améliorer la suspension</string>
+         <string name="Upgrade Tire">Améliorer les pneus</string>
+         <string name="Upgrade Fuel">Améliorer le carburant</string>
+         <string name="Level">Niveau</string>
+
+         <string name="Not enough coins! Watch video for coins!">Pas assez de jetons!&#xA;nRegarde la vidéo pour avoir des jetons!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">De meilleurs pneus procurent une meilleure traction et un meilleur transfert de la puissance au sol</string>
+         <string name="Improve fuel capacity">Améliorer la quantité de carburant</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Abaisser le centre de gravité et une absorption accrue des chocs améliorent la stabilité à haute vitesse et rendent la voiture plus stable sur les bosses</string>
+         <string name="Improved engine parts result in power increase">Des pièces de moteur améliorées donnent plus de puissance</string>
+
+         <string name="JEEP">JEEP</string>
+         <string name="CONCEPT">CONCEPT</string>
+         <string name="POLICE">POLICE</string>
+         <string name="PULL">JOUET</string>
+         <string name="F1">F1</string>
+         <string name="BUS">BUS</string>
+         <string name="ARMORED">BLINDÉE</string>
+         <string name="MONSTER">MONSTRE</string>
+
+         <string name="Loading">CHARGEMENT EN COURS...</string>
+         <string name="Paused">En pause</string>
+         <string name="RESUME">REPRENDRE</string>
+         <string name="RESTART">REDÉMARRER</string>
+         <string name="EXIT">Sortir</string>
+         <string name="RETRY">Réessayer</string>
+         <string name="You are lost">Tu es perdu</string>
+         <string name="You win">Tu as gagné</string>
+         <string name="UPGRADE">AMÉLIORER</string>
+         <string name="CANCEL">ANNULER</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Pas assez de jetons!&#xA;Veux-tu acheter des jetons?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </fr> 
+
+    <de>
+         <string name="CHOOSE MAP">KARTE AUSWÄHLEN</string>
+         <string name="CHOOSE CAR">AUTO AUSWÄHLEN</string>
+         <string name="Cost">Kosten</string>
+         <string name="coins">Münzen</string>
+         <string name="COUNTRYSIDE">LANDSCHAFT</string> 
+         <string name="DOWNHILL">DOWNHILL</string>
+         <string name="DESERT">WÜSTE</string>
+         <string name="CLIFF">KLIPPE</string>
+         <string name="CAVE">HÖHLE</string>
+         <string name="MARS">MARS</string>
+         <string name="Best">Am meisten</string>
+         <string name="View reward video to earn 1000 coins">Sehen Sie sich ein Belohnungsvideo für 1.000 Münzen an</string>
+         <string name="UPGRADE CAR">AUTO UPGRADEN</string>
+         <string name="Upgrade cost">Upgrade-Kosten</string>
+         <string name="Completed">Abgeschlossen</string>
+         <string name="Upgrade Engine">Motor upgraden</string>
+         <string name="Upgrade Suspension">Aufhängung upgraden</string>
+         <string name="Upgrade Tire">Reifen upgraden</string>
+         <string name="Upgrade Fuel">Benzin upgraden</string>
+         <string name="Level">Level</string>
+
+         <string name="Not enough coins! Watch video for coins!">Nicht genug Münzen!&#xA;Sehen Sie sich ein Video für Münzen an!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Verbesserte Reifen führen zu besserer Traktion und mehr Kraftübersetzung auf den Boden</string>
+         <string name="Improve fuel capacity">Benzinkapazität verbessern</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Ein geringer Gewichtspunkt und verbesserte Schockabsorption verbessert die Stabilität bei hoher Geschwindigkeit und zu mehr Stabilität bei Unebenheiten</string>
+         <string name="Improved engine parts result in power increase">Verbesserte Motorenteile führen zu mehr Power</string>
+
+         <string name="JEEP">JEEP</string>
+         <string name="CONCEPT">CONCEPT</string>
+         <string name="POLICE">POLIZEI</string>
+         <string name="PULL">ZIEHEN</string>
+         <string name="F1">F1</string>
+         <string name="BUS">BUS</string>
+         <string name="ARMORED">GEPANZERT</string>
+         <string name="MONSTER">MONSTER</string>
+
+         <string name="Loading">Lade...</string>
+         <string name="Paused">Pause</string>
+         <string name="RESUME">WEITER</string>
+         <string name="RESTART">ERNEUT STARTEN</string>
+         <string name="EXIT">AUSGANG</string>
+         <string name="RETRY">Erneut versuchen</string>
+         <string name="You are lost">Sie sind verloren</string>
+         <string name="You win">Sie haben gewonnen</string>
+         <string name="UPGRADE">UPGRADE</string>
+         <string name="CANCEL">STORNIEREN</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Nicht genug Münzen!&#xA;Sie einige Münzen kaufen?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </de>
+
+    <es>
+         <string name="CHOOSE MAP">ELEGIR MAPA</string>
+         <string name="CHOOSE CAR">ELEGIR COCHE</string>
+         <string name="Cost">Coste</string>
+         <string name="coins">monedas</string>
+         <string name="COUNTRYSIDE">CAMPO</string> 
+         <string name="DOWNHILL">CUESTA ABAJO</string>
+         <string name="DESERT">DESIERTO</string>
+         <string name="CLIFF">ACANTILADO</string>
+         <string name="CAVE">CUEVA</string>
+         <string name="MARS">MARTE</string>
+         <string name="Best">Mejor</string>
+         <string name="View reward video to earn 1000 coins">Mirar un video para ganar 1000 monedas</string>
+         <string name="UPGRADE CAR">ACTUALIZAR COCHE</string>
+         <string name="Upgrade cost">Actualizar coste</string>
+         <string name="Completed">Completado</string>
+         <string name="Upgrade Engine">Actualizar motor</string>
+         <string name="Upgrade Suspension">Actualizar suspensión</string>
+         <string name="Upgrade Tire">Actualizar neumático</string>
+         <string name="Upgrade Fuel">Actualizar combustible</string>
+         <string name="Level">Nivel</string>
+
+         <string name="Not enough coins! Watch video for coins!">¡No tienes suficientes monedas!&#xA;¡Mira un video para conseguir monedas!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Unos neumáticos mejores dan como resultado una mejor tracción y una mejor optimización del suministro de potencia</string>
+         <string name="Improve fuel capacity">Mejorar la capacidad de combustible</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Un menor punto de peso y una mejor absorción de choques mejora la estabilidad a altas velocidades y hace que el coche sea más estable cuando hay baches</string>
+         <string name="Improved engine parts result in power increase">Unas partes mejoradas del motor dan como resultado un aumento de la potencia</string>
+
+         <string name="JEEP">TODOTERRENO</string>
+         <string name="CONCEPT">CONCEPT</string>
+         <string name="POLICE">POLICÍA</string>
+         <string name="PULL">COCHECITO</string>
+         <string name="F1">F1</string>
+         <string name="BUS">BUS</string>
+         <string name="ARMORED">BLINDADO</string>
+         <string name="MONSTER">MONSTRUO</string>
+
+         <string name="Loading">Cargando...</string>
+         <string name="Paused">Pausado</string>
+         <string name="RESUME">REANUDAR</string>
+         <string name="RESTART">REINICIAR</string>
+         <string name="EXIT">SALIR</string>
+         <string name="RETRY">REINTENTAR</string>
+         <string name="You are lost">Estás perdido</string>
+         <string name="You win">Has ganado</string>
+         <string name="UPGRADE">ACTUALIZAR</string>
+         <string name="CANCEL">CANCELAR</string>
+         <string name="Not enough coins! Do you want to buy some coins?">¡No tienes suficientes monedas!&#xA;Quieres comprar unas monedas?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </es>
+
+    <it>
+         <string name="CHOOSE MAP">SCEGLI MAPPA</string>
+         <string name="CHOOSE CAR">SCEGLI AUTO</string>
+         <string name="Cost">Costo</string>
+         <string name="coins">gettoni</string>
+         <string name="COUNTRYSIDE">CAMPAGNA</string> 
+         <string name="DOWNHILL">DISCESA</string>
+         <string name="DESERT">DESERTO</string>
+         <string name="CLIFF">SCOGLIERE</string>
+         <string name="CAVE">CAVERNA</string>
+         <string name="MARS">MARTE</string>
+         <string name="Best">Migliore</string>
+         <string name="View reward video to earn 1000 coins">Guarda video ricompensa per guadagnare 1000 gettoni</string>
+         <string name="UPGRADE CAR">AGGIORNA AUTO</string>
+         <string name="Upgrade cost">Aggiorna costi</string>
+         <string name="Completed">Completato</string>
+         <string name="Upgrade Engine">Aggiorna motore</string>
+         <string name="Upgrade Suspension">Migliora sospensioni</string>
+         <string name="Upgrade Tire">Migliora pneumatici</string>
+         <string name="Upgrade Fuel">Migliora carburante</string>
+         <string name="Level">Livello</string>
+
+         <string name="Not enough coins! Watch video for coins!">Non hai abbastanza gettoni!&#xA;nGuarda un video per ottenerli!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Pneumatici migliori comportano una trazione migliore e un maggior trasferimento della potenza al terreno</string>
+         <string name="Improve fuel capacity">Migliora la capacità di carburante</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Un peso inferiore e un maggiore assorbimento dello shock migliorano la stabilità ad alte velocità e rendono l’auto più stabile in caso di urti</string>
+         <string name="Improved engine parts result in power increase">Parti di motore migliori fanno aumentare la potenza</string>
+
+         <string name="JEEP">JEEP</string>
+         <string name="CONCEPT">CONCEPT</string>
+         <string name="POLIZIA">POLICE</string>
+         <string name="PULL">AUTO A SPINTA</string>
+         <string name="F1">F1</string>
+         <string name="BUS">BUS</string>
+         <string name="ARMORED">CORAZZATA</string>
+         <string name="MONSTER">MONSTER</string>
+
+         <string name="Loading">CARICAMENTO...</string>
+         <string name="Paused">Pausa</string>
+         <string name="RESUME">RIPRENDI</string>
+         <string name="RESTART">INIZIA DA CAPO</string>
+         <string name="EXIT">Esci</string>
+         <string name="RETRY">Riprova</string>
+         <string name="You are lost">Ti sei perso</string>
+         <string name="You win">Hai vinto</string>
+         <string name="UPGRADE">AGGIORNA</string>
+         <string name="CANCEL">ANNULLA</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Non hai abbastanza gettoni!&#xA;nVuoi acquistare dei gettoni?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </it>
+
+    <ja>
+         <string name="CHOOSE MAP">マップ選択</string>
+         <string name="CHOOSE CAR">車の選択</string>
+         <string name="Cost">費用</string>
+         <string name="coins">コイン</string>
+         <string name="COUNTRYSIDE">農村</string> 
+         <string name="DOWNHILL">下り坂</string>
+         <string name="DESERT">砂漠</string>
+         <string name="CLIFF">崖</string>
+         <string name="CAVE">洞窟</string>
+         <string name="MARS">土星</string>
+         <string name="Best">ベスト</string>
+         <string name="View reward video to earn 1000 coins">広告動画を見て、1000コイン稼ぐ</string>
+         <string name="UPGRADE CAR">車のアップグレード</string>
+         <string name="Upgrade cost">アップグレード費用</string>
+         <string name="Completed">完了</string>
+         <string name="Upgrade Engine">エンジンのアップグレード</string>
+         <string name="Upgrade Suspension">サスペンションのアップグレード</string>
+         <string name="Upgrade Tire">タイヤのアップグレード</string>
+         <string name="Upgrade Fuel">燃料のアップグレード</string>
+         <string name="Level">レベル</string>
+
+         <string name="Not enough coins! Watch video for coins!">コインが足りません!&#xA;動画を見て、コインを集めよう！</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">タイヤの改良は、トラクションが改善し、地面への動力の伝達が改善されます。</string>
+         <string name="Improve fuel capacity">燃料タンクの容量が改善されます。</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">重心を低くし、ショックアブソーバーを改良すると、高速時の安定性が増し、デコボコに対して車をより安定させることができます。</string>
+         <string name="Improved engine parts result in power increase">エンジン部品を改良すると、パワーがアップします。</string>
+
+         <string name="JEEP">ジープ</string>
+         <string name="CONCEPT">コンセプトカー</string>
+         <string name="POLICE">警察</string>
+         <string name="PULL">ミニカー</string>
+         <string name="F1">式1</string>
+         <string name="BUS">バス</string>
+         <string name="ARMORED">装甲車</string>
+         <string name="MONSTER">モンスター</string>
+
+         <string name="Loading">ロード中...</string>
+         <string name="Paused">ポーズ中</string>
+         <string name="RESUME">再開</string>
+         <string name="RESTART">やり直し</string>
+         <string name="EXIT">退出</string>
+         <string name="RETRY">リトライ</string>
+         <string name="You are lost">負けました</string>
+         <string name="You win">勝ちました</string>
+         <string name="UPGRADE">アップグレード</string>
+         <string name="CANCEL">キャンセル</string>
+         <string name="Not enough coins! Do you want to buy some coins?">コインが足りません!&#xA;コインを購入しますか?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </ja>
+
+    <ko>
+         <string name="CHOOSE MAP">지도 선택</string>
+         <string name="CHOOSE CAR">차 선택</string>
+         <string name="Cost">비용</string>
+         <string name="coins">코인</string>
+         <string name="COUNTRYSIDE">시골</string> 
+         <string name="DOWNHILL">비탈길</string>
+         <string name="DESERT">사막</string>
+         <string name="CLIFF">절벽</string>
+         <string name="CAVE">동굴</string>
+         <string name="MARS">화성</string>
+         <string name="Best">최고</string>
+         <string name="View reward video to earn 1000 coins">보상 비디오를 보고 1000 코인을 얻으세요</string>
+         <string name="UPGRADE CAR">차 업그레이드</string>
+         <string name="Upgrade cost">업그레이드 비용</string>
+         <string name="Completed">완료</string>
+         <string name="Upgrade Engine">엔진 업그레이드</string>
+         <string name="Upgrade Suspension">서스펜션 업그레이드</string>
+         <string name="Upgrade Tire">타이어 업그레이드</string>
+         <string name="Upgrade Fuel">연료 업그레이드</string>
+         <string name="Level">레벨</string>
+
+         <string name="Not enough coins! Watch video for coins!">코인이 충분하지 않습니다!&#xA;비디오를 보고 코인을 받으세요!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">향상된 타이어는 더 나은 견인력과 힘을 지면에 더 잘 전달합니다</string>
+         <string name="Improve fuel capacity">연료 용량 업그레이드</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">더 낮은 무게 중심과 개선된 충격 흡수는 빠른 속도에서 안정성을 향상시키고 충격에서 더 안정되게 합니다</string>
+         <string name="Improved engine parts result in power increase">향상된 엔진 부품으로 힘이 증가합니다</string>
+
+         <string name="JEEP">지프</string>
+         <string name="CONCEPT">콘셉트</string>
+         <string name="POLICE">경찰차</string>
+         <string name="PULL">풀</string>
+         <string name="F1">포뮬러1</string>
+         <string name="BUS">버스</string>
+         <string name="ARMORED">장갑차</string>
+         <string name="MONSTER">몬스터</string>
+
+         <string name="Loading">로딩 중...</string>
+         <string name="Paused">정지</string>
+         <string name="RESUME">계속하기</string>
+         <string name="RESTART">재시작</string>
+         <string name="EXIT">나가기</string>
+         <string name="RETRY">재시도</string>
+         <string name="You are lost">졌습니다</string>
+         <string name="You win">이겼습니다</string>
+         <string name="UPGRADE">업그레이드</string>
+         <string name="CANCEL">취소</string>
+         <string name="Not enough coins! Do you want to buy some coins?">코인이 충분하지 않습니다!&#xA;코인을 구입하시겠습니까?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </ko>
+
+    <nl>
+         <string name="CHOOSE MAP">KAART KIEZEN</string>
+         <string name="CHOOSE CAR">AUTO KIEZEN</string>
+         <string name="Cost">Kosten</string>
+         <string name="coins">munten</string>
+         <string name="COUNTRYSIDE">PLATTELOND</string> 
+         <string name="DOWNHILL">HEUVELAFWAARTS</string>
+         <string name="DESERT">WOESTIJN</string>
+         <string name="CLIFF">KLIF</string>
+         <string name="CAVE">GROT</string>
+         <string name="MARS">MARS</string>
+         <string name="Best">Beste</string>
+         <string name="View reward video to earn 1000 coins">Bekijk reward video om 1000 munten te verdienen</string>
+         <string name="UPGRADE CAR">AUTO UPGRADEN</string>
+         <string name="Upgrade cost">Kosten Upgraden</string>
+         <string name="Completed">Voltooid</string>
+         <string name="Upgrade Engine">Motor Upgraden</string>
+         <string name="Upgrade Suspension">Ophanging Upgraden</string>
+         <string name="Upgrade Tire">Band Upgraden</string>
+         <string name="Upgrade Fuel">Brandstof Upgraden</string>
+         <string name="Level">Niveau</string>
+
+         <string name="Not enough coins! Watch video for coins!">Niet voldoende munten!&#xA;nBekijk video voor munten!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Betere banden zorgen voor een verbeterde grip en wegligging</string>
+         <string name="Improve fuel capacity">Verbeter brandstofcapaciteit</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Lagere gewichtspunten en betere schokdempers zorgen bij hoge snelheden voor een verbeterde stabiliteit en een stabielere ligging bij oneffenheden</string>
+         <string name="Improved engine parts result in power increase">Betere motoronderdelen zorgen voor een verbeterd motovermogen</string>
+
+         <string name="JEEP">JEEP</string>
+         <string name="CONCEPT">ONTWERP</string>
+         <string name="POLICE">POLITIE</string>
+         <string name="PULL">SLEEPWAGEN</string>
+         <string name="F1">F1</string>
+         <string name="BUS">BUS</string>
+         <string name="ARMORED">PANTSERVOERTUIG</string>
+         <string name="MONSTER">MONSTER</string>
+
+         <string name="Loading">LADEN...</string>
+         <string name="Paused">Gepauzeerd</string>
+         <string name="RESUME">HERVATTEN</string>
+         <string name="RESTART">HERSTARTEN</string>
+         <string name="EXIT">Uitgang</string>
+         <string name="RETRY">Opnieuw proberen</string>
+         <string name="You are lost">Je hebt verloren</string>
+         <string name="You win">Je hebt gewonnen</string>
+         <string name="UPGRADE">UPGRADEN</string>
+         <string name="CANCEL">ANNULEER</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Niet voldoende munten!&#xA;nWil je munten kopen?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </nl>
+
+    <pt>
+         <string name="CHOOSE MAP">ESCOLHER MAPA</string>
+         <string name="CHOOSE CAR">ESCOLHER CARRO</string>
+         <string name="Cost">Custo</string>
+         <string name="coins">moedas</string>
+         <string name="COUNTRYSIDE">CAMPO</string> 
+         <string name="DOWNHILL">DECLIVE</string>
+         <string name="DESERT">DESERTO</string>
+         <string name="CLIFF">PRECIPÍCIO</string>
+         <string name="CAVE">CAVE</string>
+         <string name="MARS">MARTE</string>
+         <string name="Best">Melhor</string>
+         <string name="View reward video to earn 1000 coins">Ver vídeo de recompensa para ganhar 1000 moedas</string>
+         <string name="UPGRADE CAR">FAZER UPGRADE DE CARRO</string>
+         <string name="Upgrade cost">Fazer Upgrade de custo</string>
+         <string name="Completed">Concluído</string>
+         <string name="Upgrade Engine">Fazer Upgrade de Motor</string>
+         <string name="Upgrade Suspension">Fazer Upgrade de Suspensão</string>
+         <string name="Upgrade Tire">Fazer Upgrade de Pneus</string>
+         <string name="Upgrade Fuel">Fazer Upgrade de Combustível</string>
+         <string name="Level">Nível</string>
+
+         <string name="Not enough coins! Watch video for coins!">Não tem moedas suficientes!&#xA;nVeja um vídeo por moedas!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Pneus melhorados resultam em melhor tração e melhor transmissão de potência ao piso</string>
+         <string name="Improve fuel capacity">Melhorar capacidade de combustível</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Um ponto de peso mais reduzido e melhor absorção de choque melhoram a estabilidade a altas velocidades e tornam o carro mais estável nas colisões</string>
+         <string name="Improved engine parts result in power increase">Peças de motor melhoradas resultam em aumento de potência</string>
+
+         <string name="JEEP">JIPE</string>
+         <string name="CONCEPT">PROTÓTIPO</string>
+         <string name="POLICE">POLÍCIA</string>
+         <string name="PULL">FRICÇÃO</string>
+         <string name="F1">F1</string>
+         <string name="BUS">AUTOCARRO</string>
+         <string name="ARMORED">BLINDADO</string>
+         <string name="MONSTER">MONSTER</string>
+
+         <string name="Loading">A CARREGAR...</string>
+         <string name="Paused">Pausa</string>
+         <string name="RESUME">RETOMAR</string>
+         <string name="RESTART">REINICIAR</string>
+         <string name="EXIT">Sair</string>
+         <string name="RETRY">Tentar de novo</string>
+         <string name="You are lost">Está perdido</string>
+         <string name="You win">Ganhou</string>
+         <string name="UPGRADE">UPGRADE</string>
+         <string name="CANCEL">CANCELAR</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Não tem moedas suficientes!&#xA;nQuer comprar algumas moedas?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </pt>
+
+    <sv>
+         <string name="CHOOSE MAP">VÄLJ KARTA</string>
+         <string name="CHOOSE CAR">VÄLJ BIL</string>
+         <string name="Cost">Konstnad</string>
+         <string name="coins">mynt</string>
+         <string name="COUNTRYSIDE">LANDET</string> 
+         <string name="DOWNHILL">NEDFÖR</string>
+         <string name="DESERT">ÖKEN</string>
+         <string name="CLIFF">KLIPPA</string>
+         <string name="CAVE">GROTTA</string>
+         <string name="MARS">MARS</string>
+         <string name="Best">Bäst</string>
+         <string name="View reward video to earn 1000 coins">Se belöningsvideon för att tjäna 1 000 mynt</string>
+         <string name="UPGRADE CAR">UPPGRADERA BIL</string>
+         <string name="Upgrade cost">Uppgraderingskostnad</string>
+         <string name="Completed">Avklarad</string>
+         <string name="Upgrade Engine">Uppgradera motor</string>
+         <string name="Upgrade Suspension">Uppgradere fjädringen</string>
+         <string name="Upgrade Tire">Uppgradera däck</string>
+         <string name="Upgrade Fuel">Uppgradera bensin</string>
+         <string name="Level">Nivå</string>
+
+         <string name="Not enough coins! Watch video for coins!">Inte nog med mynt!&#xA;Se videon för mynt!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Bättre däck ger bättre grepp och bättre kraft på marken</string>
+         <string name="Improve fuel capacity">Förbättrar bränslekapaciteten</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Lägre tyngdpunkt och bättre stötdämpning ökar stabiliteten vid högre hastigheten och gör bilen mer stabil vid gupp</string>
+         <string name="Improved engine parts result in power increase">Bättre motorkomponenter resulterar i kraftökningv</string>
+
+         <string name="JEEP">JEEP</string>
+         <string name="CONCEPT">KONCEPT</string>
+         <string name="POLICE">POLIS</string>
+         <string name="PULL">DRA</string>
+         <string name="F1">F1</string>
+         <string name="BUS">BUSS</string>
+         <string name="ARMORED">BEPANSRAD</string>
+         <string name="MONSTER">MONSTER</string>
+
+         <string name="Loading">LADDAR...</string>
+         <string name="Paused">Pausa</string>
+         <string name="RESUME">FORTSÄTT</string>
+         <string name="RESTART">STARTA OM</string>
+         <string name="EXIT">Avsluta</string>
+         <string name="RETRY">Försök igen</string>
+         <string name="You are lost">Du är vilse</string>
+         <string name="You win">Du vann</string>
+         <string name="UPGRADE">UPPGRADERA</string>
+         <string name="CANCEL">ANNULLERA</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Inte nog med mynt!&#xA;nVill du köpa mynt?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </sv>
+
+    <zh>
+         <string name="CHOOSE MAP">选择地图</string>
+         <string name="CHOOSE CAR">选择车子</string>
+         <string name="Cost">花费</string>
+         <string name="coins">金币</string>
+         <string name="COUNTRYSIDE">郊外</string> 
+         <string name="DOWNHILL">下坡</string>
+         <string name="DESERT">沙漠</string>
+         <string name="CLIFF">悬崖</string>
+         <string name="CAVE">山洞</string>
+         <string name="MARS">火星</string>
+         <string name="Best">最佳</string>
+         <string name="View reward video to earn 1000 coins">观看视频获取1000个金币</string>
+         <string name="UPGRADE CAR">升级车子</string>
+         <string name="Upgrade cost">升级花费</string>
+         <string name="Completed">完成</string>
+         <string name="Upgrade Engine">升级引擎</string>
+         <string name="Upgrade Suspension">升级暂停</string>
+         <string name="Upgrade Tire">升级轮胎</string>
+         <string name="Upgrade Fuel">升级汽油</string>
+         <string name="Level">等级</string>
+
+         <string name="Not enough coins! Watch video for coins!">不够金币!&#xA;观看视频获取金币!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">提高轮胎性能可以让车子对地面有更好的牵引力和动力</string>
+         <string name="Improve fuel capacity">改善汽油容量</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">降低重心并提高减震可以让车子在高速行驶时，改善稳定性，在颠簸时也更稳定。</string>
+         <string name="Improved engine parts result in power increase">改善引擎零件增加动力</string>
+
+         <string name="JEEP">吉普</string>
+         <string name="CONCEPT">概念车</string>
+         <string name="POLICE">警察</string>
+         <string name="PULL">拉车玩具</string>
+         <string name="F1">公式1</string>
+         <string name="BUS">巴士</string>
+         <string name="ARMORED">装甲车</string>
+         <string name="MONSTER">巨型车</string>
+
+         <string name="Loading">载入中...</string>
+         <string name="Paused">暂停</string>
+         <string name="RESUME">恢复</string>
+         <string name="RESTART">重新开始</string>
+         <string name="EXIT">退出</string>
+         <string name="RETRY">重试</string>
+         <string name="You are lost">你输了</string>
+         <string name="You win">你赢了</string>
+         <string name="UPGRADE">升级</string>
+         <string name="CANCEL">取消</string>
+         <string name="Not enough coins! Do you want to buy some coins?">不够金币!&#xA;您是否要购买一些金币?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </zh>
+
+    <th>
+         <string name="CHOOSE MAP">เลือกแผนที่</string>
+         <string name="CHOOSE CAR">เลือกรถ</string>
+         <string name="Cost">ค่าใช้จ่าย</string>
+         <string name="coins">เหรียญ</string>
+         <string name="COUNTRYSIDE">ชนบท</string> 
+         <string name="DOWNHILL">ดาวน์ฮิลล์</string>
+         <string name="DESERT">ทะเลทราย</string>
+         <string name="CLIFF">หน้าผา</string>
+         <string name="CAVE">ดาวน์ฮิลล์</string>
+         <string name="MARS">ดาวอังคาร</string>
+         <string name="Best">ดีที่สุด</string>
+         <string name="View reward video to earn 1000 coins">ดูวิดีโอรางวัลเพื่อรับ 1000 เหรียญ</string>
+         <string name="UPGRADE CAR">อัพเกรดรถ</string>
+         <string name="Upgrade cost">ค่าใช้จ่ายการอัพเกรด</string>
+         <string name="Completed">เสร็จสมบูรณ์</string>
+         <string name="Upgrade Engine">อัพเกรดเครื่องยนต์</string>
+         <string name="Upgrade Suspension">อัพเกรดระบบช่วงล่าง</string>
+         <string name="Upgrade Tire">อัพเกรดยาง</string>
+         <string name="Upgrade Fuel">อัพเกรดน้ำมันเชื้อเพลิง</string>
+         <string name="Level">เลเวล</string>
+
+         <string name="Not enough coins! Watch video for coins!">เหรียญไม่พอ!&#xA;ดูวิดีโอเพื่อรับเหรียญ!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">การอัพเกรดยางจะช่วยเรื่องการยึดเกาะถนน แรงฉุดและส่งพลังไปที่พื้นได้ดียิ่งขึ้น</string>
+         <string name="Improve fuel capacity">เพิ่มความจุเชื้อเพลิง</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">การลดจุดถ่วงน้ำหนักลงและการปรับให้โช้คดูดซับแรงกระแทกได้ดีขึ้นจะช่วยเพิ่มความเสถียรที่ความเร็วสูงและทำให้รถมั่นคงขึ้นเมื่อมีการกระแทก</string>
+         <string name="Improved engine parts result in power increase">การปรับปรุงชิ้นส่วนเครื่องยนต์จะช่วยเพิ่มขุมกำลังให้มากขึ้น</string>
+
+         <string name="JEEP">รถจี๊ป</string>
+         <string name="CONCEPT">รถแนวคิดแห่งอนาคต</string>
+         <string name="POLICE">รถตำรวจ</string>
+         <string name="PULL">รถของเล่น</string>
+         <string name="F1">สูตร1</string>
+         <string name="BUS">รถบัส</string>
+         <string name="ARMORED">รถหุ้มเกราะ</string>
+         <string name="MONSTER">รถมอนสเตอร์</string>
+
+         <string name="Loading">กำลังโหลด...</string>
+         <string name="Paused">หยุดชั่วคราว</string>
+         <string name="RESUME">หยุดพัก</string>
+         <string name="RESTART">เริ่มใหม่</string>
+         <string name="EXIT">ออก</string>
+         <string name="RETRY">ลองใหม่</string>
+         <string name="You are lost">คุณแพ้แล้ว</string>
+         <string name="You win">คุณชนะแล้ว</string>
+         <string name="UPGRADE">อัพเกรด</string>
+         <string name="CANCEL">ยกเลิก</string>
+         <string name="Not enough coins! Do you want to buy some coins?">เหรียญไม่พอ!&#xA;คุณต้องการซื้อเหรียญหรือไม่?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </th>
+
+    <tr>
+         <string name="CHOOSE MAP">HARİTA SEÇ</string>
+         <string name="CHOOSE CAR">ARABA SEÇ</string>
+         <string name="Cost">Maliyet</string>
+         <string name="coins">para puanları</string>
+         <string name="COUNTRYSIDE">KIRSAL KESİM</string> 
+         <string name="DOWNHILL">BAYIR AŞAĞI</string>
+         <string name="DESERT">ÇÖL</string>
+         <string name="CLIFF">KAYALIK</string>
+         <string name="CAVE">MAĞARA</string>
+         <string name="MARS">MARS</string>
+         <string name="Best">En İyi</string>
+         <string name="View reward video to earn 1000 coins">1000 para puanı kazanmak için ödül vidosunu izle</string>
+         <string name="UPGRADE CAR">ARABAYI GELİŞTİR</string>
+         <string name="Upgrade cost">Geliştirme maliyeti</string>
+         <string name="Completed">Tamamlandı</string>
+         <string name="Upgrade Engine">Motoru Geliştir</string>
+         <string name="Upgrade Suspension">Süspansiyonu Geliştir</string>
+         <string name="Upgrade Tire">Lastiği geliştir</string>
+         <string name="Upgrade Fuel">Benzini geliştir</string>
+         <string name="Level">Bölüm</string>
+
+         <string name="Not enough coins! Watch video for coins!">Yeterli miktarda para puanı yok!&#xA;Para puanı kazanmak için videoyu izle!</string>
+         <string name="Improved tired result in better traction and better power delivery to the ground">Daha iyi lastik, daha iyi çekiş ve daha iyi kuvvet anlamına gelir</string>
+         <string name="Improve fuel capacity">Benzin kapasitesini arttır</string>
+         <string name="Lower weight point and improved shock absorption improves stability at high speeds and makes the car more stable on bumps">Daha düşük ağırlık noktası ve daha iyi amortisör yüksek hızlarda dengeyi arttırır ve tümseklerde arabanın daha kararlı hareket etmesini sağlar</string>
+         <string name="Improved engine parts result in power increase">Daha iyi motor parçaları güç artışı sağlar</string>
+
+         <string name="JEEP">CİP</string>
+         <string name="CONCEPT">KONSEPT</string>
+         <string name="POLICE">POLİS</string>
+         <string name="PULL">ÇEK</string>
+         <string name="F1">F1</string>
+         <string name="BUS">ARABA</string>
+         <string name="ARMORED">ZIRHLI</string>
+         <string name="MONSTER">CANAVAR</string>
+
+         <string name="Loading">YÜKLENİYOR...</string>
+         <string name="Paused">Durduruldu</string>
+         <string name="RESUME">DEVAM ET</string>
+         <string name="RESTART">YENİDEN BAŞLAT</string>
+         <string name="EXIT">Çık</string>
+         <string name="RETRY">Yeniden Dene</string>
+         <string name="You are lost">Kayboldun</string>
+         <string name="You win">Kazandın</string>
+         <string name="UPGRADE">UPGRADE</string>
+         <string name="CANCEL">İPTAL ETMEK</string>
+         <string name="Not enough coins! Do you want to buy some coins?">Yeterli miktarda para puanı yok!&#xA;Biraz para puanı satın almak istiyor musun?</string>
+
+         <string name="View reward video to earn more coins?">View reward video to earn more coins?</string>
+         <string name="OK">OK</string>
+         <string name="CITY">CITY</string>
+         <string name="NIGHT">NIGHT</string>
+         <string name="WINTER">WINTER</string>
+         <string name="SEASIDE">SEASIDE</string>
+         <string name="TRACTOR">TRACTOR</string>
+         <string name="FIRE ENGINE">FIRE ENGINE</string>
+         <string name="GOLF">GOLF</string>
+         <string name="BIKE">BIKE</string>
+         <string name="SCHOOL BUS">SCHOOL BUS</string>
+    </tr>
+
+</resources>
